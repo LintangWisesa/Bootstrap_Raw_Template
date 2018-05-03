@@ -31,3 +31,13 @@ No.|Template|Preview|Download
 23.|Template Bootstrap Toko Online Item|*[Lihat di sini](https://blackrockdigital.github.io/startbootstrap-shop-item/)*|*[Unduh Template](https://github.com/LintangWisesa/Bootstrap_Raw_Template/tree/master/22-bootstrap-shop-item)*
 24.|Template Bootstrap Bisnis UKM|*[Lihat di sini](https://blackrockdigital.github.io/startbootstrap-small-business/)*|*[Unduh Template](https://github.com/LintangWisesa/Bootstrap_Raw_Template/tree/master/23-bootstrap-small-business)*
 
+#
+
+#### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
+
+[Facebook](https://www.facebook.com/lintangbagus) | 
+[Twitter](https://twitter.com/Lintang_Wisesa) |
+[Google+](https://plus.google.com/u/0/+LintangWisesa1) |
+[Youtube](https://www.youtube.com/user/lintangbagus) | 
+:octocat: [GitHub](https://github.com/LintangWisesa) |
+[Hackster](https://www.hackster.io/lintangwisesa)
